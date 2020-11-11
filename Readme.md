@@ -1,6 +1,6 @@
 # Exercise for Flexbox
 
-Single webpage about Flexbox
+Single website about Flexbox
 
 ## Instructions
 
